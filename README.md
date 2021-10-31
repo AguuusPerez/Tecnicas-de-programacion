@@ -1,4 +1,4 @@
-# tecnicasprogramacion
+# Tecnicas de Programacion
 Clases Técnicas de Programación - IFTS 18 Tecnicatura Superior de Desarrollo de Software. 
 
 

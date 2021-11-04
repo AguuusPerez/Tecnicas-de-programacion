@@ -14,6 +14,15 @@ print("Bienvenido")
 
 edad =int(input("Ingrese su edad: "))
 
+print("Usted tiene {} aos" .format(edad))
 
-print("Usted tiene {} a;os" .format(edad))
+
+if edad >18:
+    print("Es mayor de edad")
+    print("Estoy dentro del if true")
+else:
+    print("Es menor de edad")
+    print("Estoy dentro del else")
+
+
 print('Saliendo del programa')
